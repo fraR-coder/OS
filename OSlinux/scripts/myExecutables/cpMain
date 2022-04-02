@@ -1,0 +1,12 @@
+#!/bin/bash
+
+if [ $# -ne 1 ];then
+    echo "input error"
+    exit 1
+fi
+
+fileHelloWorld=$(find /home/francesco/OSlinux/ -maxdepth 1 -name "helloWorld.c")
+
+cp $fileHelloWorld $1
+
+exit 0

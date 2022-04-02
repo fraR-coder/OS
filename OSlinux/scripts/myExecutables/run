@@ -1,0 +1,10 @@
+#!/bin/bash
+if [ $# -ne 1 ];then
+    echo "input error"
+    exit 1
+fi
+
+gcc -Wall -o main $1
+./main
+
+exit 0

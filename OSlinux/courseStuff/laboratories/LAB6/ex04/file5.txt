@@ -1,0 +1,12 @@
+180402   BETTONI   MARCO   01OGDLM (10)   INF1T3   1      Da frequentare
+187362   CHEN   JIESI   01OGDLJ (10)   TLC1T3   1      Da frequentare
+181872   GALLINA   PAOLO   01OGDLM (10)   INF1T3   1      Da frequentare
+180412   IACOBUCCI   ALEX   01OGDLM (10)   INF1T3   1      Da frequentare
+176602   JOBARTEH   MARIAMA   01OGDLM (10)   INF1T3   1      Da frequentare
+183534   KHOSHKHOU GILAVAEI   VAHID   01OGDLM (10)   INF1T3   1      Da frequentare
+177484   KUMI   PRINCE OPOKU   01OGDLM (10)   INF1T3   1      Frequentato nel 2011/2012
+182304   SIBONA   FIORELLA   01OGDLM (10)   INF1T3   1      Da frequentare
+187444   SUN   SHU   01OGDLJ (10)   TLC1T3   1      Da frequentare
+186992   WANG   JUNHUI   01OGDLJ (10)   TLC1T3   1      Da frequentare
+187432   XU   GUANGHUAN   01OGDLJ (10)   TLC1T3   1      Da frequentare
+187354   ZENG   LUYUAN   01OGDLJ (10)   TLC1T3   1      Da frequentare

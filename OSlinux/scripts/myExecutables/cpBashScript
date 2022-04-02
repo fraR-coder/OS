@@ -1,0 +1,13 @@
+#!/bin/bash
+if [ $# -ne 1 ];then
+    echo "input error"
+    exit 1
+fi
+
+fileScriptBase=$(find /home/francesco/OSlinux/ -maxdepth 1 -name "scriptBase.sh")
+
+cp $fileScriptBase $1
+
+
+
+exit 0

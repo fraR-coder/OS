@@ -1,0 +1,5 @@
+Realize a bash script that receives two parameters:
+the name of a user of the system
+The script must recognize all the files of the
+specified user that are in the directory and its subdirectories,
+and that contain (at least) a row that begins with the string “***Da modificare”.

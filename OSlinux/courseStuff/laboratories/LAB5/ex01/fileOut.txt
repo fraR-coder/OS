@@ -1,0 +1,7 @@
+stampo su stdout e stderr
+OUT:324
+OUT:12
+OUT:86
+OUT:64
+OUT:2
+OUT:0

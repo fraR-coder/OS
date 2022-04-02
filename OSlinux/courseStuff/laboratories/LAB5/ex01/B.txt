@@ -1,0 +1,10 @@
+ll /home/ | wc -l  TO COUNT NUMBER OF FILES/DIRS
+
+
+wget https://www.skenz.it/listing/os/lab/lab01e01in.txt TO DOWNLOAD
+cat lab01e01in.txt | wc -l; 
+OPPURE
+grep -e "$" -c lab01e01in.txt   DOVE $==EOL
+
+
+ps -U francesco | wc -l COUNT PROCESSES DI francesco
